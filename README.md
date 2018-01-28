@@ -5,12 +5,12 @@
 
 <html>
 	<head>
-		<title>… </title>
+		<title> Trade Winds Comfort Heating and Air Conditioning </title>
 		<link>
 	</head>
 	<body>
 		<header>
-			<h1>… </h1>
+			<h1>Crisp carribean breeze with ease</h1>
 			<h3>… </h3>
 		</header>
 		<p>… </p>
